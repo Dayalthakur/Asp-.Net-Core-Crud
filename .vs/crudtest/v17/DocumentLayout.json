@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\crudtest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|c:\\users\\hp\\source\\repos\\crudtest\\crudtest\\controllers\\studcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|solutionrelative:crudtest\\controllers\\studcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|c:\\users\\hp\\source\\repos\\crudtest\\crudtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|solutionrelative:crudtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|c:\\users\\hp\\source\\repos\\crudtest\\crudtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|solutionrelative:crudtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|c:\\users\\hp\\source\\repos\\crudtest\\crudtest\\views\\stud\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|solutionrelative:crudtest\\views\\stud\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|c:\\users\\hp\\source\\repos\\crudtest\\crudtest\\views\\stud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|solutionrelative:crudtest\\views\\stud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|c:\\users\\hp\\source\\repos\\crudtest\\crudtest\\views\\stud\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|solutionrelative:crudtest\\views\\stud\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|c:\\users\\hp\\source\\repos\\crudtest\\crudtest\\controllers\\student1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|solutionrelative:crudtest\\controllers\\student1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|c:\\users\\hp\\source\\repos\\crudtest\\crudtest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|solutionrelative:crudtest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|c:\\users\\hp\\source\\repos\\crudtest\\crudtest\\views\\student1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|solutionrelative:crudtest\\views\\student1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|c:\\users\\hp\\source\\repos\\crudtest\\crudtest\\views\\student1\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|solutionrelative:crudtest\\views\\student1\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|c:\\users\\hp\\source\\repos\\crudtest\\crudtest\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|solutionrelative:crudtest\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|c:\\users\\hp\\source\\repos\\crudtest\\crudtest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|solutionrelative:crudtest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|c:\\users\\hp\\source\\repos\\crudtest\\crudtest\\models\\studntdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|solutionrelative:crudtest\\models\\studntdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|c:\\users\\hp\\source\\repos\\crudtest\\crudtest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|solutionrelative:crudtest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|c:\\users\\hp\\source\\repos\\crudtest\\crudtest\\models\\studnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|solutionrelative:crudtest\\models\\studnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|c:\\users\\hp\\source\\repos\\crudtest\\crudtest\\migrations\\20240521101720_abc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2DCC81-6451-41BD-8CA6-AE4EA6ADF943}|crudtest\\crudtest.csproj|solutionrelative:crudtest\\migrations\\20240521101720_abc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Views\\Stud\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "crudtest\\Views\\Stud\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Views\\Stud\\GetAll.cshtml",
+              "RelativeToolTip": "crudtest\\Views\\Stud\\GetAll.cshtml",
+              "ViewState": "AQIAAAAAAABgMzMzMzMywAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T12:08:49.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Controllers\\Student1Controller.cs",
+              "RelativeDocumentMoniker": "crudtest\\Controllers\\Student1Controller.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Controllers\\Student1Controller.cs",
+              "RelativeToolTip": "crudtest\\Controllers\\Student1Controller.cs",
+              "ViewState": "AQIAAAgAAABA9/////8jwDcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:48:58.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Controllers\\StudController.cs",
+              "RelativeDocumentMoniker": "crudtest\\Controllers\\StudController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Controllers\\StudController.cs",
+              "RelativeToolTip": "crudtest\\Controllers\\StudController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:45:58.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "crudtest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "crudtest\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T11:02:09.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "crudtest\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Properties\\launchSettings.json",
+              "RelativeToolTip": "crudtest\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T10:34:36.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\appsettings.json",
+              "RelativeDocumentMoniker": "crudtest\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\appsettings.json",
+              "RelativeToolTip": "crudtest\\appsettings.json",
+              "ViewState": "AQIAAAEAAAAgAAAAAAAqwAcAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T09:52:15.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Program.cs",
+              "RelativeDocumentMoniker": "crudtest\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Program.cs",
+              "RelativeToolTip": "crudtest\\Program.cs",
+              "ViewState": "AQIAABEAAADgZmZmZmYuwB0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:52:19.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Views\\Stud\\Create.cshtml",
+              "RelativeDocumentMoniker": "crudtest\\Views\\Stud\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Views\\Stud\\Create.cshtml",
+              "RelativeToolTip": "crudtest\\Views\\Stud\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T12:11:15.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Views\\Stud\\Edit.cshtml",
+              "RelativeDocumentMoniker": "crudtest\\Views\\Stud\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Views\\Stud\\Edit.cshtml",
+              "RelativeToolTip": "crudtest\\Views\\Stud\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAACAMzMzMzMvwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T12:12:38.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Views\\Student1\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "crudtest\\Views\\Student1\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Views\\Student1\\GetAll.cshtml",
+              "RelativeToolTip": "crudtest\\Views\\Student1\\GetAll.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T10:38:36.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Views\\Student1\\Create.cshtml",
+              "RelativeDocumentMoniker": "crudtest\\Views\\Student1\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Views\\Student1\\Create.cshtml",
+              "RelativeToolTip": "crudtest\\Views\\Student1\\Create.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAABivQwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T10:59:38.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "crudtest\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\appsettings.Development.json",
+              "RelativeToolTip": "crudtest\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T11:02:12.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "crudtest\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "crudtest\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAQAAAAwNDMzMzMvwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:08:31.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudntDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Models\\StudntDBContext.cs",
+              "RelativeDocumentMoniker": "crudtest\\Models\\StudntDBContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Models\\StudntDBContext.cs",
+              "RelativeToolTip": "crudtest\\Models\\StudntDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:53:16.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Studnt.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Models\\Studnt.cs",
+              "RelativeDocumentMoniker": "crudtest\\Models\\Studnt.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Models\\Studnt.cs",
+              "RelativeToolTip": "crudtest\\Models\\Studnt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:52:52.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240521101720_abc.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Migrations\\20240521101720_abc.cs",
+              "RelativeDocumentMoniker": "crudtest\\Migrations\\20240521101720_abc.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\crudtest\\crudtest\\Migrations\\20240521101720_abc.cs",
+              "RelativeToolTip": "crudtest\\Migrations\\20240521101720_abc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:17:20.367Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
